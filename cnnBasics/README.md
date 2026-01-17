@@ -62,9 +62,9 @@ Output:
 
       -Changes after ReLU and pooling
 
--Final flattened vector
+      -Final flattened vector
 
--Each step is printed and visualized to make learning easier.
+      -Each step is printed and visualized to make learning easier.
 
 Goal of This Project:
 
