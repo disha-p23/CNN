@@ -48,3 +48,11 @@ This project is structured into multiple cells/sections to demonstrate CNN opera
     Apply softmax to convert outputs into probabilities.
 
     Make final class prediction.
+
+Notes:
+
+The CNN in this repository is from scratch, using only NumPy and OpenCV.
+
+Dense layers are untrained, so predictions are random unless you implement training.
+
+Visualizations are provided for Conv → ReLU → Pooling steps to see how features evolve.
