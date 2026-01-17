@@ -10,59 +10,61 @@ Each Jupyter cell builds one part of a CNN pipeline-
 
 1. Convolution
 
-Apply a 3×3 kernel on an image
+   Apply a 3×3 kernel on an image
 
-Slide the kernel and compute feature maps
+   Slide the kernel and compute feature maps
 
 2. Stride
 
-Move the kernel with step size > 1
+   Move the kernel with step size > 1
 
-Reduce output size
+   Reduce output size
 
 3. Padding
 
-Add zeros around the image
+   Add zeros around the image
 
-Control output dimensions
+   Control output dimensions
 
 4. ReLU Activation
 
-Replace negative values with 0
+   Replace negative values with 0
 
-Add non-linearity
+   Add non-linearity
 
 5. Pooling (Max Pooling)
 
-Downsample feature maps
+   Downsample feature maps
 
-Keep strongest features
+   Keep strongest features
 
 6. Flattening
 
-Convert 2D feature maps into 1D vector
+   Convert 2D feature maps into 1D vector
 
-Prepare for fully connected layers
+   Prepare for fully connected layers
 
 How to Run:
 
-Clone the repo
-Open the notebook in Jupyter or VS Code
-Run cells one by one to see each CNN step
+  Clone the repo
+  
+  Open the notebook in Jupyter or VS Code
+  
+  Run cells one by one to see each CNN step
 
 Output:
 
 You will see-
 
-Feature maps after convolution
+-Feature maps after convolution
 
-Effects of stride and padding
+-Effects of stride and padding
 
-Changes after ReLU and pooling
+-Changes after ReLU and pooling
 
-Final flattened vector
+-Final flattened vector
 
-Each step is printed and visualized to make learning easier.
+-Each step is printed and visualized to make learning easier.
 
 Goal of This Project:
 
