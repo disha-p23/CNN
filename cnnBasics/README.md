@@ -46,21 +46,21 @@ Each Jupyter cell builds one part of a CNN pipeline-
 
 How to Run:
 
-  Clone the repo
+    Clone the repo
   
-  Open the notebook in Jupyter or VS Code
+    Open the notebook in Jupyter or VS Code
   
-  Run cells one by one to see each CNN step
+    Run cells one by one to see each CNN step
 
 Output:
 
-You will see-
+    You will see-
 
--Feature maps after convolution
+      -Feature maps after convolution
 
--Effects of stride and padding
+      -Effects of stride and padding
 
--Changes after ReLU and pooling
+      -Changes after ReLU and pooling
 
 -Final flattened vector
 
