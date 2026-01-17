@@ -1,9 +1,11 @@
 CNN From Scratch – Step by Step in NumPy
 
 This is a learning-based implementation of how a Convolutional Neural Network (CNN) works internally — built step by step using only NumPy.
+
 Instead of using deep learning libraries, each operation is coded manually to clearly understand what happens inside a CNN.
 
 What This Notebook Covers:
+
 Each Jupyter cell builds one part of a CNN pipeline-
 
 1. Convolution
@@ -49,6 +51,7 @@ Open the notebook in Jupyter or VS Code
 Run cells one by one to see each CNN step
 
 Output:
+
 You will see-
 
 Feature maps after convolution
@@ -62,4 +65,5 @@ Final flattened vector
 Each step is printed and visualized to make learning easier.
 
 Goal of This Project:
+
 Learn what happens inside libraries like TensorFlow and PyTorch. 
