@@ -51,13 +51,13 @@ This project is structured into multiple cells/sections to demonstrate CNN opera
 
 Notes:
 
-The CNN in this repository is from scratch, using only NumPy and OpenCV.
+   The CNN in this repository is from scratch, using only NumPy and OpenCV.
 
-Dense layers are untrained, so predictions are random unless you implement training.
+   Dense layers are untrained, so predictions are random unless you implement training.
 
-Visualizations are provided for Conv → ReLU → Pooling steps to see how features evolve.
+   Visualizations are provided for Conv → ReLU → Pooling steps to see how features evolve.
 
 
-Running the Code
+Running the Code:
 
-Make sure apple.jpg is in the same folder as the notebook (cnnTest.ipynb)
+   Make sure apple.jpg is in the same folder as the notebook (cnnTest.ipynb)
