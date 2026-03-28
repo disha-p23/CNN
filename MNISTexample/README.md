@@ -3,6 +3,9 @@
 A Convolutional Neural Network (CNN) built using TensorFlow/Keras to recognize handwritten digits from the MNIST dataset.  
 The model achieves high accuracy (~98-99%) and can predict both MNIST test images and custom handwritten digits.
 
+<img width="1400" height="672" alt="image" src="https://github.com/user-attachments/assets/81b7c4d4-b71c-4294-bfbf-219acc28e728" />
+
+
 ---
 
 ## Features
